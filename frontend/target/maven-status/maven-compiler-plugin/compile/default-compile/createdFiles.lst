@@ -1,0 +1,6 @@
+com\trainee\frontend\service\MainService.class
+com\trainee\frontend\model\LibraryBook.class
+com\trainee\frontend\model\LibraryUser.class
+com\trainee\frontend\FrontendApplication.class
+com\trainee\frontend\controller\FrontController.class
+com\trainee\frontend\model\Author.class
