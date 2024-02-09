@@ -18,7 +18,38 @@ Edit a book details
 REST APIs for CRUD operations on authors data
 REST APIs for CRUD operations on books data
 
+
+
+
+Application UI
+
+
+Librarian Login
+
+
 ![Picture1](https://github.com/YashKeshari/Spring-And-Spring-Hibernate-Integration-II/assets/79370070/07f14fc4-543b-40b4-90ba-cb8cdb178eb8)
+
+
+
+List Book Details
+
+
+<img width="606" alt="image" src="https://github.com/YashKeshari/Spring-And-Spring-Hibernate-Integration-II/assets/79370070/9e7c7525-18d1-4637-92ae-298fac903ca0">
+
+
+Edit Book Details
+
+
+<img width="571" alt="image" src="https://github.com/YashKeshari/Spring-And-Spring-Hibernate-Integration-II/assets/79370070/ca1b0306-c82c-4a20-b392-1e08c50acb5c">
+
+
+Add Book Details
+
+
+<img width="571" alt="image" src="https://github.com/YashKeshari/Spring-And-Spring-Hibernate-Integration-II/assets/79370070/d4bbc66e-eb98-4fc0-95c3-7ae27b26fc59">
+
+
+
 
 
 
